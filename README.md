@@ -1,0 +1,1 @@
+With this console application, you can experiment with the different types of methods used by decision based puzzles. Some methods include Depth First Search, Breadth First Search, and some Heuristic Search.
